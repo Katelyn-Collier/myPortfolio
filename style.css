@@ -1,0 +1,39 @@
+* {
+    color: white;
+    background-color: black;
+    text-align: center;
+    
+}
+
+h1{
+    color: #006A4E;
+    font-size: xx-large;
+
+}
+
+h2{
+    color: #20B2AA;
+    font-size: larger;
+}
+
+h3{
+    font-size: xx-large;
+    color: #006A4E;
+}
+a:link{
+    color: #20B2AA;
+}
+
+img{
+    border-radius: 50%;
+    border-style: groove; 
+    border-color: #006A4E;
+
+
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-style: normal;
+}
